@@ -1,0 +1,5 @@
+.vscode
+.swp
+vendor
+tmp
+.DS_Store
